@@ -9,9 +9,7 @@ There is a settings and email button that are unfinished but still interactive.
 
 My purpose in doing this was to practise Kotlin and get more experience.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video]([https://youtu.be/9gRmpBweKqM])
+[Software Demo Video](https://youtu.be/9gRmpBweKqM)
 
 # Development Environment
 
@@ -21,13 +19,11 @@ I used Kotlin and Java as my programming languages.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Build your first Android App in Kotlin]([https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0])
-* [Sololearn]([https://www.sololearn.com/learn/courses/java-introduction?gclid=CjwKCAiA_vKeBhAdEiwAFb_nrRVDvTSaRgIaNOVGXkglCJdHHcVIhK8dNJLM5KEVuQCI0YIs2UEhRhoC-HIQAvD_BwE])
+* [Build your first Android App in Kotlin](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0)
+* [Sololearn](https://www.sololearn.com/learn/courses/java-introduction?gclid=CjwKCAiA_vKeBhAdEiwAFb_nrRVDvTSaRgIaNOVGXkglCJdHHcVIhK8dNJLM5KEVuQCI0YIs2UEhRhoC-HIQAvD_BwE)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add sound effects and improve image quality
 * Make the transition more smooth and instanteous. A scanner instead of a button that say next
 * More user interaction and finish the ones in progress
